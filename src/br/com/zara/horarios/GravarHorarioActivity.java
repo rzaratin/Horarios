@@ -57,15 +57,5 @@ public class GravarHorarioActivity extends Activity {
 	         e.printStackTrace();
 	         e.getMessage();
 	    }
-	    
-	    //MediaScannerConnection.scanFile(this, paths, mimeTypes, callback);
-	    
-	   }
-
-	
-
-	
-
-	
-
+	}
 }
